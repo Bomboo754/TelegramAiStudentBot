@@ -1,6 +1,7 @@
 # TelegramAiStudentBot
-Telegram Bot for my school project
-**A simple Telegram bot that helps students explore topics independently — no direct answers, only questions and resources.**
+Telegram Bot prototype for my school project
+
+# **A simple Telegram bot that helps students explore topics independently — no direct answers, only questions and resources.**
 
 > **"Learn, Create & Grow"** — with curiosity as the engine.
 
@@ -43,7 +44,7 @@ Telegram Bot for my school project
 
 ---
 
-### Step 2: Install Bot Library
+### Step 2: Install Bot Library.
 
 1. Open **install.bat**.
 
@@ -51,7 +52,7 @@ It will do everything automatically for you.
 
 ---
 
-### Step 3: Activate the Bot
+### Step 3: Activate the Bot.
 
 1. Open **start_bot.bat**.
 
@@ -59,10 +60,10 @@ It will also do everything automatically for you.
 
 ---
 
-### Step 4: Test in Telegram
+### Step 4: Test in Telegram.
 
 1. **Open Telegram**
-2. Search for your bot by **username** (e.g. `@my_aiexplorer_bot`)
+2. Search for bot by username Student Ai Help Bot**** (e.g. `@StudentAiHelpBot`)
 3. Tap **Start** or type `/start`
 4. Try these topics:
 
@@ -72,8 +73,6 @@ It will also do everything automatically for you.
 | `dinosaurs` | Why so big? + National Geographic |
 | `internet` | How data travels? + Code.org |
 | `photosynthesis` | Generic questions + "search on YouTube" |
-
-> **Pro tip**: Record a 10-second screen video → turn into `demo.gif` for GitHub!
 
 ---
 
@@ -88,7 +87,6 @@ It will also do everything automatically for you.
 | **Multi-Language** | Latvian, Russian, English | Planned |
 | **Teacher Dashboard** | Track class engagement (anonymized) | Dream |
 
-> _"From prototype to classroom — in 3 steps."_
 
 ---
 
