@@ -1,3 +1,4 @@
 @echo off
-python bot.py
+python bot_FINAL.py
+
 pause
