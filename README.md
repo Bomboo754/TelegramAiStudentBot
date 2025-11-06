@@ -28,13 +28,12 @@ Telegram Bot prototype for my school project
 
 ## How to Run.
 
-### Step 1: Install Python.
+### Step 1: Install Python. (If Not Installed)
 
 1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Click **"Download Python 3.13"** (or latest)
 3. Run the installer
 4. **Important**: Check the box **"Add Python to PATH"**
-5. Click "Install Now"
 
 > Verify: Open **Command Prompt** (`Win + R` → `cmd`) → type:
 > ```bash
@@ -44,7 +43,7 @@ Telegram Bot prototype for my school project
 
 ---
 
-### Step 2: Install Bot Library.
+### Step 2: Install Dependencies.
 
 1. Open **install.bat**.
 
@@ -52,18 +51,22 @@ It will do everything automatically for you.
 
 ---
 
-### Step 3: Activate the Bot.
+### Step 3: Launch the Bot.
 
 1. Open **start_bot.bat**.
 
 It will also do everything automatically for you.
-
+* You'll see:
+> ```
+> Bot is running! Go to Telegram → /start
+> Press Ctrl+C to stop.
+> ```
 ---
 
 ### Step 4: Test in Telegram.
 
 1. **Open Telegram**
-2. Search for bot by username Student Ai Help Bot**** (e.g. `@StudentAiHelpBot`)
+2. Search for bot by username Student Ai Help Bot (e.g. `@StudentAiHelpBot`)
 3. Tap **Start** or type `/start`
 4. Try these topics:
 
@@ -91,3 +94,4 @@ It will also do everything automatically for you.
 ---
 
 **Star this repo if you believe in curiosity-driven learning!**
+*MIT License © 2025 [BrainStormers Team]*
