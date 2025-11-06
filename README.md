@@ -86,7 +86,7 @@ It will also do everything automatically for you.
 | **AI-Powered Questions** | Use Grok/GPT to generate dynamic questions | Planned |
 | **Topic Buttons** | `/space`, `/biology`, `/history` — one tap | Planned |
 | **Voice Input** | Speak your topic → bot replies | Planned |
-| **Chat Export** | Save discoveries as PDF | Planned |
+| **Bot feedback** | Analizes Students theories, gives a follow-up, or praise originality.| Planned |
 | **Multi-Language** | Latvian, Russian, English | Planned |
 | **Teacher Dashboard** | Track class engagement (anonymized) | Dream |
 
